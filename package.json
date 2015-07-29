@@ -7,10 +7,10 @@
     "test": "test"
   },
   "dependencies": {
-    "config": "^1.11.0",
-    "pre-commit": "^1.0.10"
   },
   "devDependencies": {
+    "config": "^1.11.0",
+    "pre-commit": "^1.0.10",
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-jscs": "^1.5.0",
