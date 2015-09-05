@@ -3,7 +3,7 @@ module.exports = function(grunt) {
     return {
         all: {
             options: {
-                config: '.jscs.json'
+                config: '.jscsrc'
             },
             files: {
                 src: [
